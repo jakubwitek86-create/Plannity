@@ -1,0 +1,14 @@
+{
+  "name": "Plannity",
+  "short_name": "Plannity",
+  "description": "Rodzinny plan Jakuba i Oli",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5faf8",
+  "theme_color": "#1f8a70",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
